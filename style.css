@@ -1,0 +1,1 @@
+alert("evvel yadda saxlayin");
