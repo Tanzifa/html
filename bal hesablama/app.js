@@ -27,7 +27,11 @@ switch(secim){
     case "2":
         alert("Sistemden cixildi");
         break;
+        case "3":
+        alert("Sistemden cixildi");
+        break;
     default:
         alert("Zehmet olmasa 1 ve ya 2 reqemini secin!");
         break;
+        //
 }
